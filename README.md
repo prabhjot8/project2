@@ -1,4 +1,4 @@
 # new project
 
 This project was created from local system.
-created by prabhjot kaur
+created by prabhjot kaur.
